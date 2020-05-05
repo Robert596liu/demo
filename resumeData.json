@@ -1,0 +1,181 @@
+{
+  "main": {
+    "name":"Robert Liu",
+    "occupation":"(Your Occupation Here)",
+    "description":"A Software Engineering student at the University of Waterloo",
+    "direction": "Passionate about Data Science & AI",
+    "image":"Robert.png",
+    "bio":"I am a hard-working software engineering student at the University of Waterloo (GPA: 3.8), with couple years of experience in Computer Contest (NOI). Also, I have some project and work experience in Machine Learning, Deep Learning and OpenCV.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "z596liu@uwaterloo.ca ",
+    "phone": "548-333-5666",
+    "address":{
+      "street":"330 Philip Street.",
+      "city":"Waterloo",
+      "state":"Ontario",
+      "zip": "N2L 3W9"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/zuoqiu.liu",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/robert-zuoqiu-liu/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Robert596liu",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Waterloo",
+        "degree":"Bachelor of Software Engineering Degree",
+        "graduated":"April, 2024",
+        "description":"Major in Software Engineering, combination of CS and ECE."
+      }
+    ],
+    "work":[
+      {
+        "company":"YOOZOO GAMES",
+        "title":"AI Engineer Intern",
+        "years":"April, 2019 - Auguest, 2019",
+        "description_1":" Created datetime features from time series problems to generate labels for partitioning time sequence to predict future ads performance and to make suggestions on optimizing YOOZOO Games’ budget.",
+        "description_2":" Engaged in feature engineering through Potential User Analysis using feature analysis techniques like PCA, LightGBM.",
+        "description_3":" Evaluated YOOZOO Games’ Advertising performance using cost per action (CPA) and other metrics by analyzing the ads release platform policies."
+      },
+      {
+        "company":"North Ligths",
+        "title":"Software Developer Intern",
+        "years":"December, 2018 - Januay, 2019",
+        "description_1":" Implemented robot position detection algorithm for an AI exhibition guide.",
+        "description_2":" Designed a socket platform and messaging protocol for transforming messages to communicate between C++ and Python.",
+        "description_3":" Improved data transfer speeds by over 10 times as opposed to using Cpython in C++."
+      }
+    ],
+    "skills":[
+      {
+        "name":"C/C++",
+        "level":"87%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"R",
+        "level":"60%"
+      },
+      {
+        "name":"SQL",
+        "level":"72%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"35%"
+      },
+      {
+        "name":"Qt",
+        "level":"50%"
+      }
+    ],
+    "libs":[
+      {
+        "name":"Numpy",
+        "level":"90%"
+      },
+      {
+        "name":"Pandas",
+        "level":"95%"
+      },
+      {
+        "name":"Matplotlib",
+        "level":"85%"
+      },
+      {
+        "name":"OpenCV",
+        "level":"75%"
+      },
+      {
+        "name":"Keras",
+        "level":"83%"
+      },
+      {
+        "name":"TensorFlow",
+        "level":"85%"
+      },
+      {
+        "name":"Scikit-learn",
+        "level":"80%"
+      },
+      {
+        "name":"Nltk",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"生活最好的状态就是冷冷清清中的风风火火",
+        "user":"木心"
+      },
+      {
+        "text":"如果你站的足够高你就会发现大地是星空的一部分",
+        "user":"熊培云"
+      }
+    ]
+  }
+}
